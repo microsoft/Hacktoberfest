@@ -2,6 +2,8 @@
 
 Announcement details: https://aka.ms/hacktoberfest
 
+Looking for repos to contribute to? Check out [repos.md](repos.md).
+
 Questions? Look for existing issues in this repo first. Otherwise, create a new issue!
 
 Thanks!
