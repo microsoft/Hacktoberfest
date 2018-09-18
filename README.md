@@ -1,4 +1,4 @@
-# Hacktoberfest at Microsoft:
+# Hacktoberfest at Microsoft
 
 Announcement details: https://aka.ms/hacktoberfest
 
