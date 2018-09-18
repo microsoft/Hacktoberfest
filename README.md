@@ -1,3 +1,12 @@
+# Hacktoberfest at Microsoft:
+
+Announcement details: https://aka.ms/hacktoberfest
+
+Questions? Look for existing issues in this repo first. Otherwise, create a new issue!
+
+Thanks!
+
+
 
 # Contributing
 
