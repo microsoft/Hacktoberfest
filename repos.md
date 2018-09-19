@@ -1,1 +1,1 @@
-Please see [repos.csv](repos.csv) instead.
+Visit https://opensource.microsoft.com instead.
