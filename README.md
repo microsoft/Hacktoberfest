@@ -1,6 +1,7 @@
 # Hacktoberfest at Microsoft
 
 Announcement details: https://aka.ms/hacktoberfest
+You have a potential to win a free shirt from microsoft if you submit a pull request between October 1 and 31st.
 
 Looking for repos to contribute to? You can search available repos at https://opensource.microsoft.com.
 
