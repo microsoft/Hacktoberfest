@@ -8,6 +8,13 @@ Questions? Look for existing issues in this repo first. Otherwise, create a new 
 
 Thanks!
 
+# How to participate
+1. **Find a project that looks interesting**. You can browse all our of repos on https://opensource.microsoft.com and filter by keyword, trending, stars, forks, tags, and more.
+2. Perhaps you already have a great idea for improving the project. If not, **browse the list of open issues**. My favorite tip: look for issues labeled help-wanted or good-first-issue.
+3. **Make a Pull Request** to improve the project’s code or documentation.
+4. **[Important]** Complete [this form](https://aka.ms/hacktoberfestshirt) to make sure we enter you in the challenge and register your participation. We’ll send instructions for receiving your shirt after Hacktoberfest ends.
+
+…that’s it!
 
 
 # Contributing
