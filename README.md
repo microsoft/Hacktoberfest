@@ -6,6 +6,8 @@ Looking for repos to contribute to? You can search available repos at https://op
 
 Questions? Look for existing issues in this repo first. Otherwise, create a new issue!
 
+After you have created a pull request, navigate to https://aka.ms/hacktoberfestshirt and fillup your details in order to get a tshirt!
+
 Thanks!
 
 
