@@ -1,4 +1,11 @@
 # Hacktoberfest at Microsoft
+## Program Details :
+
+**What is hacktoberfest ?**
+<br>
+It is a program by Digital Ocean and Github, where you can easily win a T-Shirt just by making 5 pull requests (between 1st October to 31th October) to any open source projects on Github.
+This year Microsoft planned to participate in hacktoberfest program.
+Here is the announcement  -
 
 Announcement details: https://aka.ms/hacktoberfest
 
@@ -7,7 +14,6 @@ Looking for repos to contribute to? You can search available repos at https://op
 Questions? Look for existing issues in this repo first. Otherwise, create a new issue!
 
 Thanks!
-
 
 
 # Contributing
