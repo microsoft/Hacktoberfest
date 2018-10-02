@@ -1,6 +1,6 @@
 # Hacktoberfest at Microsoft
 
-Announcement details: https://aka.ms/hacktoberfest
+For all Hacktoberfest information please visit: https://aka.ms/hacktoberfest
 
 # How to participate
 1. **Find a project that looks interesting**. You can browse all our of repos on https://opensource.microsoft.com and filter by keyword, trending, stars, forks, tags, and more.
@@ -11,9 +11,7 @@ Announcement details: https://aka.ms/hacktoberfest
 …that’s it!
 
 
-# Contributing (to this repo itself)
-
-## For Hacktoberfest please do not contribute to this repo itself.
+# Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
