@@ -4,6 +4,8 @@ Announcement details: https://aka.ms/hacktoberfest
 
 Looking for repos to contribute to? You can search available repos at https://opensource.microsoft.com.
 
+Our projects span nearly all areas of computing, from developer tools and frameworks like .NET Core, Microsoft Cognitive Toolkit, Visual Studio Code, and Visual Studio Tools for Xamarin to Kubernetes tooling like Draft and the Service Fabric container orchestrator.
+
 Questions? Look for existing issues in this repo first. Otherwise, create a new issue!
 
 Thanks!
