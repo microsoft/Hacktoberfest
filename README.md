@@ -4,8 +4,6 @@ Announcement details: https://aka.ms/hacktoberfest
 
 Looking for repos to contribute to? You can search available repos at https://opensource.microsoft.com.
 
-## PLEASE DO NOT CONTRIBUTE TO THIS REPO ITSELF
-
 Questions? Look for existing issues in this repo first. Otherwise, create a new issue!
 
 Thanks!
@@ -13,6 +11,8 @@ Thanks!
 
 
 # Contributing
+
+## PLEASE DO NOT CONTRIBUTE TO THIS REPO ITSELF
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
