@@ -8,7 +8,9 @@ Questions? Look for existing issues in this repo first. Otherwise, create a new 
 
 Thanks!
 
+# How to make a pull request guide [Click Here](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
 
+# All repositories with hacktoberfest tag available on Github to contribute during hacktoberfest 2018 [Click here](https://github.com/search?q=label:hacktoberfest+state:open+type:issue)
 
 # Contributing
 
