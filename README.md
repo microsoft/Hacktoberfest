@@ -17,7 +17,7 @@ Thanks!
 …that’s it!
 
 
-# Contributing
+# Contributing (to this repo itself)
 
 ## For Hacktoberfest please do not contribute to this repo itself.
 
