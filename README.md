@@ -41,3 +41,13 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
+# Getting started with Hacktoberfest for Beginners
+
+If you're new to open source (which everyone was once!), you can take a look at the [Introduction to Open Source](https://opensource.com/resources/what-open-source) tutorial series.
+
+To make your first contribution, it's required to familiarize yourself with [How To Create a Pull Request](https://help.github.com/articles/creating-a-pull-request/).
+
+[Visit this guide to find out more about how you can contribute to open source.](https://opensource.guide/how-to-contribute/)
+
+[Or learn by playing a game.](https://www.twilio.com/quest/mission/28)
