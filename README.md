@@ -25,6 +25,14 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
+Any contributor who opens a pull request in any Microsoft repo between October 1 and October 31* will receive a special edition T-shirt, designed by Cloud Developer Advocate [Ashley McNamara](https://github.com/ashleymcnamara).
+
+We welcome all contributions and no contribution is too small. Edits and additions to project README files or contributing to our developer documentation are great places to start.
+
+Happy Hacktoberfest!
+
+*Note: Contributions to Microsoft repos may also count towards participation in DigitalOcean and GitHub’s Hacktoberfest.
+
 # Legal Notices
 
 Microsoft and any contributors grant you a license to the Microsoft documentation and other content
