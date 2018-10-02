@@ -8,6 +8,9 @@ Questions? Look for existing issues in this repo first. Otherwise, create a new 
 
 Thanks!
 
+First announcement about Microsoft joining Hacktoberfest (September 18, 2018): 
+https://open.microsoft.com/2018/09/18/hacktoberfest-2018-microsoft/
+
 
 
 # Contributing
