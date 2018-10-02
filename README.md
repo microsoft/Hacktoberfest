@@ -8,7 +8,15 @@ Questions? Look for existing issues in this repo first. Otherwise, create a new 
 
 Thanks!
 
+# How to participate
 
+1. Find a project that looks interesting. You can browse all our of repos on [opensource.microsoft.com](https://opensource.microsoft.com/) and filter by keyword, trending, stars, forks, tags, and more.
+2. Perhaps you already have a great idea for improving the project. If not, browse the list of open issues. My favorite tip: look for issues labeled help-wanted or good-first-issue.
+3. Make a Pull Request to improve the project’s code or documentation.
+4. **IMPORTANT** Complete [this form](https://aka.ms/hacktoberfestshirt) to make sure we enter you in the challenge and register your participation. We’ll send instructions for receiving your shirt after Hacktoberfest ends.
+
+*Note: Contributions to Microsoft repos may also count towards participation in DigitalOcean and GitHub’s Hacktoberfest.*
+*Yes, really! Any pull request. Please keep in mind the spirit of open source, meaningfully improve projects or documentation, and be kind to the project maintainers and your fellow contributors and community members.*
 
 # Contributing
 
