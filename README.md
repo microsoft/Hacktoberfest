@@ -2,6 +2,8 @@
 
 Announcement details: https://aka.ms/hacktoberfest
 
+Make sure to register for the free t-shirt here: https://aka.ms/hacktoberfestshirt
+
 Looking for repos to contribute to? You can search available repos at https://opensource.microsoft.com.
 
 Questions? Look for existing issues in this repo first. Otherwise, create a new issue!
