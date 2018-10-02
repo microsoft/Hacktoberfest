@@ -12,7 +12,7 @@ Thanks!
 
 # Contributing
 
-## PLEASE DO NOT CONTRIBUTE TO THIS REPO ITSELF
+## For Hacktoberfest please do not contribute to this repo itself.
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
